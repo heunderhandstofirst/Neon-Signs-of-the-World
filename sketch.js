@@ -3,6 +3,8 @@ let cs;
 let pcs;
 let bcs;
 
+// now i have meade a comment
+
 const backgroundImageURL = "images/background.png";
 const letterURLs = [
   "images/letter-00-s.png",
